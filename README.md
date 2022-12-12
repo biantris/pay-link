@@ -68,4 +68,4 @@ We would like for all developers working on this project to use the same Node en
 
 
 ## Demo
-🔗 `🚧 wip 🚧`
+🔗 https://pay-link.vercel.app
